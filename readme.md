@@ -1,4 +1,4 @@
-# VidSummarizer Pro
+# VidSummarizer
 
 VidSummarizer is a YouTube video summarization app using the OpenAI API.
 
