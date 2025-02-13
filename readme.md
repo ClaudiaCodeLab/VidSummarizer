@@ -1,7 +1,5 @@
 # VidSummarizer
 
-[![Sync to Hugging Face hub](https://github.com/ClaudiaCodeLab/VidSummarizer/tree/main/.github/workflows/main.yml/badge.svg)](https://github.com/ClaudiaCodeLab/VidSummarizer/tree/main/.github/workflows/main.yml)
-
 VidSummarizer is a YouTube video summarization app using the OpenAI API.
 
 ## Installation
